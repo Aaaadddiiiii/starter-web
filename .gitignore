@@ -1,1 +1,3 @@
-tobeignored.txt
+.DS_Store
+log/
+*.orig
